@@ -33,4 +33,6 @@ x2 = -0.475131
 
 ## Installing
 
-Simply run the Makefile with ```make```.
+Simply compile with the Makefile using ```make```.
+
+Run the program with ```./computor_v1 + "your_polynomial_equation"```.
